@@ -1,4 +1,4 @@
-Customer Segmentation & Spending Analysis (Data Mining Project)
+**Customer Segmentation & Spending Analysis **(Data Mining Project)
 📌 Project Overview
 
 This project focuses on Customer Segmentation and Spending Behavior Analysis using Machine Learning techniques. It involves data preprocessing, exploratory data analysis (EDA), regression, classification, and clustering to extract meaningful insights and predict customer behavior.
